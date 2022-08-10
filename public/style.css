@@ -1,0 +1,38 @@
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 30px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+img.pfp {
+    width: 35%;
+    height: 35%;
+}
+
+div.logInHeader{
+    background-color: #399B53;
+    padding: 1px;
+    padding-left: 40px;
+}
+
+.logInHeader h2{
+    color: black;
+}
+
+
+div.loginbox {
+    padding: 30px;
+}
+
+[type="checkbox"] {
+    font-size:  xx-small;
+}
+
+div.legal {
+    font-size: small;
+    padding: 20px;
+    background-color: lightgrey;
+}
